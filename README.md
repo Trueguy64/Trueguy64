@@ -1,4 +1,7 @@
-## Hi there 👋
+![](https://raw.githubusercontent.com/Trueguy64/github-stats/refs/heads/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Trueguy64/github-stats/refs/heads/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Trueguy64/github-stats/refs/heads/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Trueguy64/github-stats/refs/heads/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **Trueguy64/Trueguy64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
