@@ -1,17 +1,14 @@
-![](https://raw.githubusercontent.com/Trueguy64/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Trueguy64/github-stats-transparent/output/generated/languages.svg)
+![Quote](.github/images/banner.png)
 
-<!--
-**Trueguy64/Trueguy64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<div width = "50%">
+![WEEE](.github/images/ralsei.gif)
+</div>
+<div width = "50%">
+Hi my name's Ronald, I am a student at KMUTT, and I like to program stuff, among stuffs. 
+</div>
+</div>
 
-Here are some ideas to get you started:
+![Overview](https://raw.githubusercontent.com/Trueguy64/github-stats-transparent/output/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/Trueguy64/github-stats-transparent/output/generated/languages.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
